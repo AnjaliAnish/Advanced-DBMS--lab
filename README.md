@@ -1,1 +1,1 @@
-# Advanced-DBMS--lab
+# Advanced-DBMS-lab
